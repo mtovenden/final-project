@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -fuse-ld=gold -shared -Wl,-soname,examples__dyn_hello.px4mod -o /home/max/final-project/devel/lib/examples__dyn_hello.px4mod CMakeFiles/examples__dyn_hello.dir/hello.cpp.o   -L/home/max/final-project/build/PX4-Autopilot/external/Install/lib  -Wl,-rpath,/home/max/final-project/build/PX4-Autopilot/external/Install/lib 

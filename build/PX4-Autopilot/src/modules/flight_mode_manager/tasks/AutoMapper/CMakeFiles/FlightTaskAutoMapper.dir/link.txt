@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libFlightTaskAutoMapper.a  CMakeFiles/FlightTaskAutoMapper.dir/FlightTaskAutoMapper.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libFlightTaskAutoMapper.a

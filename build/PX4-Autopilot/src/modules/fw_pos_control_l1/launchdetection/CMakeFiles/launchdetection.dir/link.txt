@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/liblaunchdetection.a  CMakeFiles/launchdetection.dir/LaunchDetector.cpp.o CMakeFiles/launchdetection.dir/CatapultLaunchMethod.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/liblaunchdetection.a

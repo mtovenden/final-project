@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~enabled" : \b [bool] if map detection enabled min: False, default: True, max: True
+- \b "~map" : \b [str] full path for the map file min: , default: , max: 
+- \b "~image_axis" : \b [bool] debug image axis min: False, default: True, max: True
+

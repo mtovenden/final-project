@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libPositionControl.a  CMakeFiles/PositionControl.dir/ControlMath.cpp.o CMakeFiles/PositionControl.dir/PositionControl.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libPositionControl.a

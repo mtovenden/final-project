@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libmodules__rc_update.a  CMakeFiles/modules__rc_update.dir/rc_update.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libmodules__rc_update.a

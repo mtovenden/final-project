@@ -1,0 +1,13 @@
+# Target labels
+ jsbsim_bridge
+# Source files and their labels
+/home/max/final-project/build/PX4-Autopilot/platforms/posix/CMakeFiles/jsbsim_bridge
+/home/max/final-project/build/PX4-Autopilot/platforms/posix/CMakeFiles/jsbsim_bridge.rule
+/home/max/final-project/build/PX4-Autopilot/platforms/posix/CMakeFiles/jsbsim_bridge-complete.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-install.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-mkdir.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-download.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-update.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-patch.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-configure.rule
+/home/max/final-project/build/PX4-Autopilot/external/Stamp/jsbsim_bridge/jsbsim_bridge-build.rule

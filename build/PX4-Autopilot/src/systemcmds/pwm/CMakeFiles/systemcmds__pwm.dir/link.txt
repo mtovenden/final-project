@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libsystemcmds__pwm.a  CMakeFiles/systemcmds__pwm.dir/pwm.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libsystemcmds__pwm.a

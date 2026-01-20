@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libmathlib.a  CMakeFiles/mathlib.dir/math/test/test.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libmathlib.a

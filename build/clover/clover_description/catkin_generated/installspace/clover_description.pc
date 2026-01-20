@@ -1,0 +1,8 @@
+prefix=/home/max/final-project/install
+
+Name: clover_description
+Description: Description of clover_description
+Version: 0.25.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

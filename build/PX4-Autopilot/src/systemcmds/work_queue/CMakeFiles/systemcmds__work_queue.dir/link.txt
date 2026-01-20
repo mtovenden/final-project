@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libsystemcmds__work_queue.a  CMakeFiles/systemcmds__work_queue.dir/work_queue_main.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libsystemcmds__work_queue.a

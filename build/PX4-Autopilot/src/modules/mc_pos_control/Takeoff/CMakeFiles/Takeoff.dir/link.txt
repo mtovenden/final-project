@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libTakeoff.a  CMakeFiles/Takeoff.dir/Takeoff.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libTakeoff.a

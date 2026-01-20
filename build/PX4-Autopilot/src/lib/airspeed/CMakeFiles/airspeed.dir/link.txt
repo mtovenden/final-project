@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libairspeed.a  CMakeFiles/airspeed.dir/airspeed.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libairspeed.a

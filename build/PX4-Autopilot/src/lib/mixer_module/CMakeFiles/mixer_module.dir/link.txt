@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libmixer_module.a  CMakeFiles/mixer_module.dir/mixer_module.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libmixer_module.a

@@ -1,0 +1,8 @@
+prefix=/home/max/final-project/install
+
+Name: roswww_static
+Description: Description of roswww_static
+Version: 0.25.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

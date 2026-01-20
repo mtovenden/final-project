@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/max/final-project/devel/lib/libsystemcmds__system_time.a  CMakeFiles/systemcmds__system_time.dir/system_time.cpp.o
+/usr/bin/ranlib /home/max/final-project/devel/lib/libsystemcmds__system_time.a

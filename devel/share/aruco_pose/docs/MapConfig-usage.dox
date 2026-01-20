@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="aruco_pose" pkg="aruco_pose" type="aruco_pose">
+  <param name="enabled" type="bool" value="True" />
+  <param name="map" type="str" value="" />
+  <param name="image_axis" type="bool" value="True" />
+</node>
+\endverbatim
+
